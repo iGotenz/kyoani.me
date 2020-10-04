@@ -1,2 +1,0 @@
-# kyoani.me
-kyoani site
